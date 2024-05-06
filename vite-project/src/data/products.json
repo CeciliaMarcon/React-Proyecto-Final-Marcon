@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Short Mom Soho",
+        "id": 1,
+        "category": "Jeans",
+        "detail": "Short confeccionado en denim.",
+        "img": "../src/img/modelo1.jpg",
+        "price": 15500
+    },
+    {
+        "name": "Vestido Helena",
+        "id": 2,
+        "category": "Vestidos",
+        "detail": "Vestido escote pico confeccionado en seda.",
+        "img": "../src/img/modelo2.jpg",
+        "price": 25000
+    },
+    {
+        "name": "Blusa Tina",
+        "id": 3,
+        "category": "Blusas",
+        "detail": "Blusa cuello solapa confeccionada en lino rústico.",
+        "img": "../src/img/modelo3.jpg",
+        "price": 26500
+    },
+    {
+        "name": "Jean Bath",
+        "id": 4,
+        "category": "Jeans",
+        "detail": "Jeans tiro alto confeccionado en denim elastizado.",
+        "img": "../src/img/modelo4.jpg",
+        "price": 27500
+    },
+    {
+        "name": "Top Victoria",
+        "id": 5,
+        "category": "Tops",
+        "detail": "Top confeccionado en Lycra.",
+        "img": "../src/img/modelo5.jpg",
+        "price": 32750
+    }
+ 
+
+]
